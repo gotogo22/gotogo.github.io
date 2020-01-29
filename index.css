@@ -117,3 +117,7 @@ body{
   top: 5px;
   box-shadow: none;
 }
+
+.image {
+  background-color: #FFCCFF;
+}
